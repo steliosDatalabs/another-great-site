@@ -12,7 +12,7 @@
 
 <img width="250px" src="https://www.datalabs.edu.gr/images/datalabsLogo.png">
 
-@datalabs-student
+@thesveg
 
 
 **αυτη ειναι εντονη γραφη** *αυτη ειναι πλαγια συνταξη* ***εντονη και πλαγιο***
