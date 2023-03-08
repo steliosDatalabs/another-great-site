@@ -8,6 +8,12 @@
 
 <a href="https://www.google.com/">www.google.com</a>
 
+![εδω ειναι ενα alt text](https://www.datalabs.edu.gr/images/datalabsLogo.png)
+
+<img width="250px" src="https://www.datalabs.edu.gr/images/datalabsLogo.png">
+
+@datalabs-student
+
 
 **αυτη ειναι εντονη γραφη** *αυτη ειναι πλαγια συνταξη* ***εντονη και πλαγιο***
 
