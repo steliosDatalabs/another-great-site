@@ -4,6 +4,16 @@
 
 <h1>h1 Header</h1>
 
+- στοιχειο 1
+- στοιχειο 2
+
+1. στοιχειο 1
+2. στοιχειοπ 2
+
+---
+
+<!-- εδω μπαινει το σχολιο -->
+
 [www.google.com](https://www.google.com/) 
 
 <a href="https://www.google.com/">www.google.com</a>
@@ -11,9 +21,6 @@
 ![εδω ειναι ενα alt text](https://www.datalabs.edu.gr/images/datalabsLogo.png)
 
 <img width="250px" src="https://www.datalabs.edu.gr/images/datalabsLogo.png">
-
-
-
 
 **αυτη ειναι εντονη γραφη** *αυτη ειναι πλαγια συνταξη* ***εντονη και πλαγιο***
 
@@ -39,5 +46,5 @@
 δεξια στοιχιση
 </p>
 
-@datalabs-student οκ
+
 
