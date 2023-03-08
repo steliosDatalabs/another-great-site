@@ -12,7 +12,7 @@
 
 <img width="250px" src="https://www.datalabs.edu.gr/images/datalabsLogo.png">
 
-@steliosDatalabs εδώ εχω κατι
+
 
 
 **αυτη ειναι εντονη γραφη** *αυτη ειναι πλαγια συνταξη* ***εντονη και πλαγιο***
@@ -41,4 +41,4 @@
 
 
 
-@steliosDatalabs πως παει?
+@steliosDatalabs ερώτηση
